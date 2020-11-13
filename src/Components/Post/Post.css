@@ -1,0 +1,75 @@
+.BgImgStyle {
+    background-size: cover;
+    width: 100%;
+    height: 40vh;
+    min-height: 400px;
+}
+
+.BgStyleSub {
+    background-color: rgba(0, 0, 0, 0.3);
+    width: 100%;
+    height: 100%;
+    padding: 2vw;
+    color: #fff;
+}
+
+.Order-fx-col {
+    display: flex;
+    flex-direction: column;
+}
+
+.Text-nav {
+    font-size: 11px;
+    cursor: pointer;
+}
+
+.Text-Img {
+    width: 100%;
+    text-align: center;
+    margin: auto;
+    font-size: 28px;
+    font-weight: bolder;
+}
+
+.Cont-descrip {
+    width: 100%;
+    height: auto;
+    background: #f2f2f2;
+    padding: 2vw;
+}
+
+.Cont-comments {
+    width: 100%;
+    height: auto;
+    text-align: center;
+    background: #f2f2f2;
+    padding: 2vw;
+}
+
+.Cont-comments h5 {
+    font-weight: bolder;
+}
+
+.Comment {
+    background: #fff;
+    width: 70%;
+    height: auto;
+    padding: 10px 5px;
+    margin: 10px auto;
+    text-align: left;
+    box-shadow: 1px 1px 5px 1px rgba(0, 0, 0, 0.3);
+    border-radius: 5px;
+}
+
+.Cont-form {
+    background: #f2f2f2;
+    width: 100%;
+    height: auto;
+    text-align: center;
+    padding: 2vw;
+}
+.Form-comments {
+    text-align: left;
+    width: 70%;
+    margin: 0 auto 0 auto;
+}
